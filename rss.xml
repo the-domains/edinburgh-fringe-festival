@@ -4,7 +4,7 @@
         <description><![CDATA[Edinburgh Fringe Festival]]></description>
         <link>https://thegrid.ai/edinburgh-fringe-festival/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 21:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 21:12:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edinburgh-fringe-festival/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edinburgh Festival Fringe]]></title>
@@ -29,17 +29,10 @@
         </item>
         <item>
             <title><![CDATA[Friiiiiiinge]]></title>
-            <description><![CDATA[<article><h1>Friiiiiiinge</h1><p>This is an unofficial website covering all things relating to the Edinburgh Festival Fringe.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Friiiiiiinge</h1><p>This is an unofficial website covering all things relating to the Edinburgh Festival Fringe. </p></article>]]></description>
             <link>https://thegrid.ai/edinburgh-fringe-festival/friiiiiiinge/index.html</link>
             <guid isPermaLink="false">40503428-efbf-4376-b5e9-c6d0fbe85fbd</guid>
-            <pubDate>Thu, 22 Oct 2015 20:35:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://files.list.co.uk/sites/edinburghfestival/img/festivals/streetperformer22-LST051825.jpg">]]></description>
-            <link>https://thegrid.ai/edinburgh-fringe-festival/0522136a-535d-4f3d-90dc-cdb158f9c149/index.html</link>
-            <guid isPermaLink="false">0522136a-535d-4f3d-90dc-cdb158f9c149</guid>
-            <pubDate>Thu, 22 Oct 2015 20:41:29 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2015 21:10:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
