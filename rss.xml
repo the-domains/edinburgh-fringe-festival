@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Edinburgh Fringe Festival]]></title>
-        <description><![CDATA[Edinburgh Fringe Festival]]></description>
+        <title><![CDATA[Edinburgh Fringe Festival ]]></title>
+        <description><![CDATA[Edinburgh Fringe Festival ]]></description>
         <link>https://thegrid.ai/edinburgh-fringe-festival/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 21:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 21:37:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edinburgh-fringe-festival/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Street Performers]]></title>
@@ -12,6 +12,13 @@
             <link>https://files.list.co.uk/sites/edinburghfestival/img/festivals/streetperformer22-LST051825.jpg</link>
             <guid isPermaLink="false">0522136a-535d-4f3d-90dc-cdb158f9c149</guid>
             <pubDate>Thu, 22 Oct 2015 21:30:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Edinburgh Round]]></title>
+            <description><![CDATA[<article><h1>Edinburgh Round</h1><p>Edinburgh Round 2 105</p><img src="https://farm3.staticflickr.com/2792/4048433696_85384f7abb_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/julicrockett/4048433696/in/photolist-7aKhhY-7aJRJA-7aJJ5U-7aK5pU-7aKGkd-7aFsUe-7aKfBU-7aFnhM-7aKJ2C-7aLtHA-7aKK2S-7aJZXG-m3CtW-5dmRxo-qXXd3-7aGHZg-7aLxQE-7aGKmB-7aLwvo-7aLyxm-fCi2BF-fCzCTw-fCigB8-7aEaYc-rAg5Y-7aKjE1-m3CsT-m3CBM-m3CAA-7aEFjx-m3xym-m3yF6-m3Coy-m4Q7i-m3xDc-m3CxR-m8A67-m3yiX-m3CmX-m8A8p-qXXcx-5dmRhm-5gbUyx-5gbexa-2SU8sq-5gbJgz-i9hCCj-7aHQ5j-fCzRtu-7aKNGh</link>
+            <guid isPermaLink="false">6c7b3ca2-c2da-4e0f-8123-ac00c79ec803</guid>
+            <pubDate>Thu, 22 Oct 2015 21:36:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About the Fringe]]></title>
