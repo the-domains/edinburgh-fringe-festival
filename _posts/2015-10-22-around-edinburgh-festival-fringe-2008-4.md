@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.flickr.com/photos/theedinburghblog/2798030066/'
 inLanguage: null
 starred: false
 keywords: []
 description: 'https://www.flickr.com/photos/theedinburghblog/2798030066/'
-datePublished: '2015-10-22T21:10:51.274Z'
-dateModified: '2015-10-22T21:10:19.113Z'
+datePublished: '2015-10-22T21:20:45.186Z'
+dateModified: '2015-10-22T21:20:17.475Z'
 author:
   - name: www.theedinburghblog.co.uk
     url: 'https://www.flickr.com/photos/theedinburghblog/'
@@ -27,7 +28,6 @@ publisher:
   domain: www.flickr.com
   url: 'https://www.flickr.com/'
   favicon: 'https://www.flickr.com/favicon.ico'
-url: edinburgh-festival-fringe/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
