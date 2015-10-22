@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "The Edinburgh Festival Fringe (The Fringe) is the world's largest arts festival"
-datePublished: '2015-10-22T21:00:42.557Z'
-dateModified: '2015-10-22T21:00:38.071Z'
+datePublished: '2015-10-22T21:10:40.558Z'
+dateModified: '2015-10-22T21:06:20.572Z'
 author: []
 title: About the Fringe
 sourcePath: _posts/2015-10-22-the-edinburgh-festival-fringe-the-fringe-is-the-worlds-la.md
