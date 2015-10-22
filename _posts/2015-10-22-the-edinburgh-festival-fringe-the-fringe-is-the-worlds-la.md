@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://en.wikipedia.org/wiki/Edinburgh_Festival_Fringe'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "The Edinburgh Festival Fringe (The Fringe) is the world's largest arts festival"
-datePublished: '2015-10-22T21:10:40.558Z'
-dateModified: '2015-10-22T21:06:20.572Z'
+datePublished: '2015-10-22T21:19:25.659Z'
+dateModified: '2015-10-22T21:19:14.781Z'
 author: []
 title: About the Fringe
 sourcePath: _posts/2015-10-22-the-edinburgh-festival-fringe-the-fringe-is-the-worlds-la.md
@@ -18,7 +19,6 @@ publisher:
   domain: en.wikipedia.org
   url: null
   favicon: null
-url: the-edinburgh-festival-fringe-the-fringe-is-the-worlds-la/index.html
 _context: 'http://schema.org'
 _type: Article
 
