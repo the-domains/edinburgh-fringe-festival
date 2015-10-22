@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Definitely not about haircuts, the Edinburgh Festival Fringe is one of the largest festivals of its kind anywhere. '
-datePublished: '2015-10-22T21:10:59.133Z'
-dateModified: '2015-10-22T20:54:21.441Z'
+datePublished: '2015-10-22T21:20:41.855Z'
+dateModified: '2015-10-22T21:19:46.443Z'
 title: Friiiiiiinge
 sourcePath: _posts/2015-10-22-friiiiiiinge.md
 published: true
@@ -17,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: friiiiiiinge/index.html
-_type: Article
+_type: Blurb
 
 ---
 This is an unofficial website covering all things relating to the Edinburgh Festival Fringe.
