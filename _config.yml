@@ -1,0 +1,23 @@
+name: Edinburgh Fringe Festival
+favicon: null
+layout_spectrum: 0.24735523131676018
+typography_spectrum: 0.8515128700528294
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5961537663824856
+  lightness: 0.3397658560425043
+  saturation: 0.9292913919780403
+  rhythmicContrast: 0.13560951524414122
+purpose: []
