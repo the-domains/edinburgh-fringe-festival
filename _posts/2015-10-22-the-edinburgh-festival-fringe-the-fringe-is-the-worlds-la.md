@@ -1,17 +1,23 @@
 ---
-description: "The Edinburgh Festival Fringe (The Fringe) is the world's largest arts festival, with the 2014 event spanning 25 days and featuring over 3,193 shows from 51 cou"
-author: []
-datePublished: '2015-10-22T20:55:05.410Z'
-publisher:
-  domain: en.wikipedia.org
-  name: en.wikipedia.org
-title: ''
-dateModified: '2015-10-22T20:54:16.647Z'
-sourcePath: _posts/2015-10-22-the-edinburgh-festival-fringe-the-fringe-is-the-worlds-la.md
-published: true
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: "The Edinburgh Festival Fringe (The Fringe) is the world's largest arts festival, with the 2014 event spanning 25 days and featuring over 3,193 shows from 51 cou"
+datePublished: '2015-10-22T20:56:37.120Z'
+dateModified: '2015-10-22T20:56:28.233Z'
+author: []
+title: About the Fringe
+sourcePath: _posts/2015-10-22-the-edinburgh-festival-fringe-the-fringe-is-the-worlds-la.md
+published: true
+authors: []
+publisher:
+  name: en.wikipedia.org
+  domain: en.wikipedia.org
+  url: null
+  favicon: null
 url: the-edinburgh-festival-fringe-the-fringe-is-the-worlds-la/index.html
 _context: 'http://schema.org'
 _type: Article
