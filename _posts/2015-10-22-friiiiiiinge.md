@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Definitely not about haircuts, the Edinburgh Festival Fringe is one of the largest festivals of its kind anywhere. '
-datePublished: '2015-10-22T20:34:07.540Z'
-dateModified: '2015-10-22T20:30:39.386Z'
+datePublished: '2015-10-22T20:35:43.125Z'
+dateModified: '2015-10-22T20:35:35.531Z'
 title: Friiiiiiinge
 authors: []
 publisher:
