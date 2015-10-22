@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.flickr.com/photos/theedinburghblog/2798030066/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'https://www.flickr.com/photos/theedinburghblog/2798030066/'
-datePublished: '2015-10-22T21:20:45.186Z'
-dateModified: '2015-10-22T21:20:17.475Z'
+datePublished: '2015-10-22T22:12:55.529Z'
+dateModified: '2015-10-22T22:12:43.857Z'
 author:
   - name: www.theedinburghblog.co.uk
     url: 'https://www.flickr.com/photos/theedinburghblog/'
